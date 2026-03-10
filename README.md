@@ -23,4 +23,16 @@ Me apasiona el mundo de la programación y crear soluciones creativas a través 
 ---
 
 ### 📫 Conéctate conmigo:
-**Discord:** @evelynbarrios__34066
+<p align="center">
+  <a href="https://github.com/barriosevelyn488-web" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/evelynbarrios__34066" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=evelynbarrios__34066" />
+  </a>
+  <a href="https://www.instagram.com/evelyn_barrios_nm" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+![imagen](conectados.gif)
