@@ -23,3 +23,4 @@ Me apasiona el mundo de la programación y crear soluciones creativas a través 
 ---
 
 ### 📫 Conéctate conmigo:
+**Discord:** @evelynbarrios__34066
