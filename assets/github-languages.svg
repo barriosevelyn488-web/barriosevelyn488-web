@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-labelledby="t d">
+<title id="t">Lenguajes principales de los repositorios propios</title><desc id="d">Cantidad de repositorios por lenguaje principal al 28 Sep 2026</desc>
+<rect width="1100" height="340" rx="20" fill="#0d1117"/>
+<text x="34" y="42" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="22" font-weight="700">Lenguaje principal por repositorio propio</text>
+<text x="1066" y="40" text-anchor="end" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Datos consultados: 28 Sep 2026</text>
+<text x="36" y="103" fill="#dbeafe" font-family="Arial,sans-serif" font-size="15">JavaScript</text>
+<rect x="190" y="86" width="600" height="22" rx="11" fill="#263449"/>
+<rect x="190" y="86" width="600" height="22" rx="11" fill="#f1e05a"/>
+<text x="814" y="103" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">12 repositorios (46%)</text>
+<text x="36" y="141" fill="#dbeafe" font-family="Arial,sans-serif" font-size="15">Python</text>
+<rect x="190" y="124" width="600" height="22" rx="11" fill="#263449"/>
+<rect x="190" y="124" width="300" height="22" rx="11" fill="#3572a5"/>
+<text x="814" y="141" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">6 repositorios (23%)</text>
+<text x="36" y="179" fill="#dbeafe" font-family="Arial,sans-serif" font-size="15">HTML</text>
+<rect x="190" y="162" width="600" height="22" rx="11" fill="#263449"/>
+<rect x="190" y="162" width="150" height="22" rx="11" fill="#e34c26"/>
+<text x="814" y="179" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">3 repositorios (12%)</text>
+<text x="36" y="217" fill="#dbeafe" font-family="Arial,sans-serif" font-size="15">PLpgSQL</text>
+<rect x="190" y="200" width="600" height="22" rx="11" fill="#263449"/>
+<rect x="190" y="200" width="100" height="22" rx="11" fill="#336790"/>
+<text x="814" y="217" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">2 repositorios (8%)</text>
+<text x="36" y="255" fill="#dbeafe" font-family="Arial,sans-serif" font-size="15">CSS</text>
+<rect x="190" y="238" width="600" height="22" rx="11" fill="#263449"/>
+<rect x="190" y="238" width="100" height="22" rx="11" fill="#563d7c"/>
+<text x="814" y="255" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">2 repositorios (8%)</text>
+<text x="36" y="293" fill="#dbeafe" font-family="Arial,sans-serif" font-size="15">Dart</text>
+<rect x="190" y="276" width="600" height="22" rx="11" fill="#263449"/>
+<rect x="190" y="276" width="50" height="22" rx="11" fill="#00b4ab"/>
+<text x="814" y="293" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">1 repositorios (4%)</text>
+<text x="36" y="324" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Distribución entre 26 repositorios propios con lenguaje detectado; no representa líneas de código.</text></svg>
