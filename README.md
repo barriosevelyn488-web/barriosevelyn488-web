@@ -111,11 +111,26 @@ Me considero una persona metódica, analítica y constante. Me apasionan la arqu
 
 ---
 
-### Actividad en GitHub
+### Actividad y Estadísticas en GitHub
 
 <div align="center">
+  <!-- Gráfico dinámico de actividad y curva de contribuciones en el tiempo -->
   <a href="https://github.com/barriosevelyn488-web">
-    <img src="https://streak-stats.demolab.com/?user=barriosevelyn488-web&background=0b1329&ring=2563eb&fire=38bdf8&currStreakLabel=60a5fa&sideLabels=8b949e&currStreakNum=38bdf8&sideNums=60a5fa&dates=8b949e&stroke=2563eb&hide_border=true" alt="Racha de contribuciones de Evelyn Barrios" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=barriosevelyn488-web&bg_color=0b1329&color=38bdf8&line=2563eb&point=60a5fa&area=true&hide_border=true" alt="Gráfico de actividad y curva de contribuciones en GitHub" width="100%" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Racha de contribuciones y días activos -->
+  <a href="https://github.com/barriosevelyn488-web">
+    <img src="https://streak-stats.demolab.com/?user=barriosevelyn488-web&background=0b1329&ring=2563eb&fire=38bdf8&currStreakLabel=60a5fa&sideLabels=8b949e&currStreakNum=38bdf8&sideNums=60a5fa&dates=8b949e&stroke=2563eb&hide_border=true" alt="Racha de desarrollo de Evelyn" height="195" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Distribución de lenguajes en repositorios -->
+  <a href="https://github.com/barriosevelyn488-web">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barriosevelyn488-web&theme=tokyonight" alt="Distribución de lenguajes en repositorios" height="195" />
   </a>
 </div>
 
