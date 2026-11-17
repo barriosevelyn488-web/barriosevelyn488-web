@@ -1,33 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Evelyn Barrios</title>
-  <desc id="desc">Desarrolladora junior de software de Guatemala</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Evelyn Barrios · Técnica en Desarrollo de Software</title>
+  <desc id="desc">Banner oficial de perfil de GitHub de Evelyn Barrios — Backend, Bases de Datos e Inteligencia Artificial</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0284c7"/>
-      <stop offset="52%" stop-color="#2563eb"/>
-      <stop offset="100%" stop-color="#1e40af"/>
+      <stop offset="0%" stop-color="#070c18"/>
+      <stop offset="45%" stop-color="#0b1329"/>
+      <stop offset="100%" stop-color="#0f2347"/>
     </linearGradient>
-    <radialGradient id="glow" cx="85%" cy="15%" r="75%">
-      <stop offset="0%" stop-color="#7dd3fc" stop-opacity=".45"/>
-      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0"/>
+    <radialGradient id="glowTopRight" cx="90%" cy="20%" r="65%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.32"/>
+      <stop offset="60%" stop-color="#2563eb" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0b1329" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.4" fill="#dbeafe" opacity=".32"/>
+    <radialGradient id="glowBottomLeft" cx="10%" cy="85%" r="55%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#070c18" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38bdf8" stroke-width="0.7" stroke-opacity="0.08"/>
+      <circle cx="40" cy="0" r="1.5" fill="#38bdf8" fill-opacity="0.18"/>
     </pattern>
   </defs>
-  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="28" fill="url(#glow)"/>
-  <rect x="780" width="420" height="300" rx="28" fill="url(#dots)" opacity=".65"/>
-  <path d="M0 246 C190 205 290 315 520 257 S850 206 1200 258 V300 H0Z" fill="#0b1f3a" opacity=".18"/>
-  <circle cx="1050" cy="78" r="100" fill="none" stroke="#e0f2fe" stroke-opacity=".2" stroke-width="2"/>
-  <circle cx="1050" cy="78" r="70" fill="none" stroke="#e0f2fe" stroke-opacity=".2" stroke-width="2"/>
-  <g fill="#fff" opacity=".82">
-    <circle cx="1000" cy="72" r="4"/><circle cx="1085" cy="48" r="4"/><circle cx="1100" cy="115" r="4"/>
+
+  <!-- Fondo base con bordes suaves -->
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowTopRight)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowBottomLeft)"/>
+
+  <!-- Línea de acento superior sutil -->
+  <rect x="0" y="0" width="1200" height="3" fill="#38bdf8" fill-opacity="0.6"/>
+
+  <!-- Decoración geométrica tech lado derecho -->
+  <circle cx="1060" cy="90" r="110" fill="none" stroke="#38bdf8" stroke-opacity="0.15" stroke-width="1.5" stroke-dasharray="6 6"/>
+  <circle cx="1060" cy="90" r="75" fill="none" stroke="#60a5fa" stroke-opacity="0.2" stroke-width="1.5"/>
+  <circle cx="1060" cy="90" r="40" fill="#2563eb" fill-opacity="0.12"/>
+
+  <!-- Nodos de conexión (arquitectura / datos) -->
+  <g fill="#38bdf8" opacity="0.85">
+    <circle cx="1000" cy="80" r="4.5"/>
+    <circle cx="1080" cy="55" r="4"/>
+    <circle cx="1110" cy="130" r="5"/>
+    <circle cx="1035" cy="145" r="3.5"/>
   </g>
-  <g stroke="#fff" stroke-opacity=".42" stroke-width="2">
-    <path d="M1000 72 1085 48 1100 115" fill="none"/>
+  <g stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.5">
+    <line x1="1000" y1="80" x2="1080" y2="55"/>
+    <line x1="1080" y1="55" x2="1110" y2="130"/>
+    <line x1="1110" y1="130" x2="1035" y2="145"/>
+    <line x1="1035" y1="145" x2="1000" y2="80"/>
   </g>
-  <text x="600" y="132" text-anchor="middle" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Evelyn Barrios</text>
-  <text x="600" y="174" text-anchor="middle" fill="#eaf6ff" font-family="Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="1.2">DESARROLLADORA JUNIOR DE SOFTWARE</text>
-  <text x="600" y="218" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI,Arial,sans-serif" font-size="17">Programación · Desarrollo web · Facilitación de equipos</text>
+
+  <!-- Decoración lado izquierdo (código / corchetes) -->
+  <text x="80" y="110" fill="#38bdf8" fill-opacity="0.16" font-family="Consolas, monospace" font-size="70" font-weight="700">&lt; / &gt;</text>
+
+  <!-- Textos Principales Centrados -->
+  <!-- Badge de disponibilidad -->
+  <g transform="translate(600, 58)">
+    <rect x="-140" y="-14" width="280" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.5"/>
+    <circle cx="-116" cy="0" r="4" fill="#10b981"/>
+    <text x="-98" y="4" fill="#94a3b8" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1">GUATEMALA · DISPONIBLE</text>
+  </g>
+
+  <!-- Nombre Principal -->
+  <text x="600" y="132" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5">
+    Evelyn <tspan fill="#38bdf8">Barrios</tspan>
+  </text>
+
+  <!-- Subtítulo / Titulación -->
+  <text x="600" y="176" text-anchor="middle" fill="#60a5fa" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3">
+    TÉCNICA EN DESARROLLO DE SOFTWARE
+  </text>
+
+  <!-- Descripción de Especialidad -->
+  <text x="600" y="218" text-anchor="middle" fill="#cbd5e1" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" letter-spacing="0.5">
+    Backend &amp; APIs REST · Bases de Datos Relacionales · Inteligencia Artificial · Metodologías Ágiles
+  </text>
+
+  <!-- Pastillas de Tecnologías Clave -->
+  <g transform="translate(600, 268)">
+    <g transform="translate(-270, 0)">
+      <rect x="-42" y="-13" width="84" height="26" rx="6" fill="#1e293b" stroke="#334155"/>
+      <text x="0" y="4" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="12" font-weight="600">Node.js</text>
+    </g>
+    <g transform="translate(-150, 0)">
+      <rect x="-52" y="-13" width="104" height="26" rx="6" fill="#1e293b" stroke="#334155"/>
+      <text x="0" y="4" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="12" font-weight="600">PostgreSQL</text>
+    </g>
+    <g transform="translate(-30, 0)">
+      <rect x="-40" y="-13" width="80" height="26" rx="6" fill="#1e293b" stroke="#334155"/>
+      <text x="0" y="4" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="12" font-weight="600">Docker</text>
+    </g>
+    <g transform="translate(80, 0)">
+      <rect x="-42" y="-13" width="84" height="26" rx="6" fill="#1e293b" stroke="#334155"/>
+      <text x="0" y="4" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="12" font-weight="600">Flutter</text>
+    </g>
+    <g transform="translate(195, 0)">
+      <rect x="-45" y="-13" width="90" height="26" rx="6" fill="#1e293b" stroke="#334155"/>
+      <text x="0" y="4" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="12" font-weight="600">Firebase</text>
+    </g>
+    <g transform="translate(290, 0)">
+      <rect x="-30" y="-13" width="60" height="26" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.4"/>
+      <text x="0" y="4" text-anchor="middle" fill="#38bdf8" font-family="Consolas, monospace" font-size="12" font-weight="700">Git</text>
+    </g>
+  </g>
 </svg>
