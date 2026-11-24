@@ -26,11 +26,17 @@
 
 ### Sobre mí
 
-Hola, soy **Evelyn Barrios**, Técnica en Desarrollo de Software graduada de **Campuslands Guatemala**, con especialidad en desarrollo backend, diseño de bases de datos relacionales e inteligencia artificial.
+<p align="justify">
+Hola, soy <strong>Evelyn Barrios</strong>, Técnica en Desarrollo de Software graduada de <strong>Campuslands Guatemala</strong>, con especialidad en desarrollo backend, diseño de bases de datos relacionales e inteligencia artificial.
+</p>
 
-Mi camino hacia la tecnología tiene una base práctica y analítica: soy **Perito Contador** y cursé estudios de **Administración de Empresas** en la Universidad de San Carlos de Guatemala (USAC). Además, durante tres años trabajé en servicio al cliente, coordinación de sucursales comerciales y seguimiento de métricas operativas. Esta trayectoria me enseñó una regla fundamental: **antes de escribir una sola línea de código, hay que saber escuchar, comprender el proceso y entender el problema real del usuario y del negocio.**
+<p align="justify">
+Mi camino hacia la tecnología tiene una base práctica y analítica: soy <strong>Perito Contador</strong> y cursé estudios de <strong>Administración de Empresas</strong> en la Universidad de San Carlos de Guatemala (USAC). Además, durante tres años trabajé en servicio al cliente, coordinación de sucursales comerciales y seguimiento de métricas operativas. Esta trayectoria me enseñó una regla fundamental: <strong>antes de escribir una sola línea de código, hay que saber escuchar, comprender el proceso y entender el problema real del usuario y del negocio.</strong>
+</p>
 
+<p align="justify">
 Me considero una persona metódica, analítica y constante. Me apasionan la arquitectura modular y la creación de sistemas intuitivos, seguros y limpios. Actualmente divido mi jornada entre el desarrollo intensivo de software, la coordinación técnica y comercial, y el apoyo docente como auxiliar en talleres de Inteligencia Artificial los fines de semana.
+</p>
 
 ---
 
